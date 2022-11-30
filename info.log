@@ -1,0 +1,3779 @@
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-23T08:35:30.463Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-23T09:54:28.314Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-23T09:55:52.166Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-23T10:07:45.894Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-23T10:10:26.428Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-23T10:40:51.266Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-23T10:43:08.155Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-23T10:46:30.235Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-23T10:57:07.040Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-23T10:58:07.410Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-23T11:09:31.080Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-23T11:29:17.439Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-23T11:29:17.453Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-23T11:29:42.296Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-23T11:29:42.317Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-23T11:40:55.704Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-23T11:40:55.718Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-23T11:42:20.622Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-23T11:42:20.638Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-23T11:43:15.581Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-23T11:43:15.610Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-23T11:52:33.293Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-23T11:52:33.317Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-23T11:53:06.021Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-23T11:53:06.066Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-23T11:54:31.596Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-23T11:54:31.627Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-23T11:58:13.623Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-23T11:58:13.650Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-23T12:12:38.191Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-23T12:12:38.244Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-23T12:13:17.978Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-23T12:13:18.013Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T03:46:00.739Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T03:46:00.758Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T03:51:10.511Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T03:51:10.542Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T03:52:45.911Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T03:52:45.934Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T03:53:36.476Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T03:53:36.500Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T03:54:06.797Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T03:54:06.832Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T03:56:13.523Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T03:56:13.545Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T04:00:03.492Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T04:00:03.511Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T04:04:34.994Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T04:04:35.019Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T04:06:28.512Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T04:06:28.535Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T04:15:54.288Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T04:15:54.310Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T04:16:05.240Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T04:16:05.261Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T04:17:23.516Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T04:17:23.538Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T04:17:34.821Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T04:17:34.859Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T04:19:18.751Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T04:19:18.773Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T04:23:52.234Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T04:23:52.250Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T04:30:16.583Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T04:30:16.599Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T04:31:36.949Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T04:31:36.968Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T05:06:37.778Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T05:06:37.794Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T05:08:01.849Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T05:08:01.865Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T05:10:04.132Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T05:10:04.146Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T06:58:08.911Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T06:58:08.927Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T07:21:04.614Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T07:21:04.630Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T07:33:39.675Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T07:33:39.722Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T07:35:23.364Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T07:35:23.396Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T07:37:01.600Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T07:37:01.635Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-08-25T07:39:36.802Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-08-25T07:41:19.630Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-08-25T07:42:02.802Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T07:44:47.630Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T07:44:47.660Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-08-25T07:45:23.800Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T07:45:50.638Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T07:45:50.668Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T07:49:11.026Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T07:49:11.050Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-08-25T07:49:46.730Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-08-25T07:53:55.681Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-08-25T07:54:08.003Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T07:56:49.287Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T07:56:49.769Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T07:58:25.192Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T07:58:25.232Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T07:58:42.981Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T07:58:43.018Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T07:58:57.012Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T07:58:57.046Z'
+}
+{
+  message: 'ErrorMessageEnum.RECORD_NOT_FOUND',
+  level: 'error',
+  timestamp: '2022-08-25T07:59:06.740Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T08:01:01.912Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T08:01:01.946Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-08-25T08:01:04.649Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T08:04:34.694Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T08:04:34.736Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T08:09:08.426Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T08:09:08.473Z'
+}
+{
+  _original: { email: 'thomas@yopmail.com', password: '' },
+  details: [
+    {
+      message: '"password" is not allowed to be empty',
+      path: [ 'password' ],
+      type: 'string.empty',
+      context: { label: 'password', value: '', key: 'password' }
+    }
+  ],
+  level: 'error',
+  timestamp: '2022-08-25T08:10:32.078Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-08-25T08:10:32.078Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T08:14:24.648Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T08:14:24.683Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T08:14:53.878Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T08:14:53.914Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T08:16:30.109Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T08:16:30.141Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T08:20:36.733Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T08:20:36.766Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T08:20:55.718Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T08:20:55.762Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T08:34:53.531Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T08:34:53.564Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T08:39:12.558Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T08:39:12.589Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T08:40:57.003Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T08:40:57.032Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T08:41:38.405Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T08:41:38.436Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T08:41:56.349Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T08:41:56.393Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T08:42:05.681Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T08:42:05.721Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T08:42:54.254Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T08:42:54.292Z'
+}
+{
+  _original: { email: 'thomas@yopmail.com', password: '' },
+  details: [
+    {
+      message: '"password" is not allowed to be empty',
+      path: [ 'password' ],
+      type: 'string.empty',
+      context: { label: 'password', value: '', key: 'password' }
+    }
+  ],
+  level: 'error',
+  timestamp: '2022-08-25T10:18:15.084Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-08-25T10:18:15.085Z'
+}
+{
+  _original: { email: 'thomas@yopmail.com', password: '' },
+  details: [
+    {
+      message: '"password" is not allowed to be empty',
+      path: [ 'password' ],
+      type: 'string.empty',
+      context: { label: 'password', value: '', key: 'password' }
+    }
+  ],
+  level: 'error',
+  timestamp: '2022-08-25T10:18:16.416Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-08-25T10:18:16.417Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T10:20:25.639Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T10:20:25.668Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T10:20:53.768Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T10:20:53.806Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T10:24:25.671Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T10:24:25.724Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25T10:27:48.282Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T10:27:48.318Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25T10:34:57.092Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T10:34:57.131Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25T10:35:35.449Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T10:35:35.492Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T10:36:16.440Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T10:36:16.472Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3001',
+  timestamp: '2022-08-25T10:37:25.824Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T10:37:25.869Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25T10:38:41.477Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T10:38:41.520Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25T10:38:58.107Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T10:38:58.152Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25T10:40:50.731Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T10:40:50.779Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25T11:10:36.079Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T11:10:36.111Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25T11:11:11.483Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T11:11:11.526Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25T11:12:26.161Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T11:12:26.202Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25T11:39:24.232Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T11:39:24.277Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25T11:43:19.825Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T11:43:19.858Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25T11:51:31.581Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25T11:51:31.623Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25 17:24:33'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25 17:24:33'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25 17:24:49'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25 17:24:49'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25 17:28:15'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25 17:28:15'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25 17:30:17'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25 17:30:17'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25 17:32:02'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25 17:32:02'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25 17:32:41'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25 17:32:41'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25 17:33:45'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25 17:33:45'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25 17:34:15'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25 17:34:15'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25 17:34:41'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25 17:34:41'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25 17:36:17'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25 17:36:17'
+}
+{
+  message: 'Invalid Email or Code!!',
+  level: 'error',
+  timestamp: '2022-08-25 17:36:24'
+}
+{
+  level: 'error',
+  message: 'Invalid Email or Code!!',
+  timestamp: '2022-08-25 17:36:24'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25 17:42:16'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25 17:42:16'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25 17:42:57'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25 17:42:57'
+}
+{
+  message: 'Invalid Email or Code!!',
+  level: 'error',
+  timestamp: '2022-08-25 17:43:02'
+}
+{
+  level: 'error',
+  message: 'Invalid Email or Code!!',
+  timestamp: '2022-08-25 17:43:02'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '8pmt6.floor(new 25pmte().getTi59e() / 1000)'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '8pmt6.floor(new 25pmte().getTi59e() / 1000)'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25 19:04:14'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25 19:04:14'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25 19:04:48'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25 19:04:48'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-25 19:05:41'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-25 19:05:41'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-26 09:09:52'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-26 09:09:52'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-26 09:10:09'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-26 09:10:09'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-26 09:11:44'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-26 09:11:44'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-26 09:12:01'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-26 09:12:01'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-26 13:36:56'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-26 13:36:56'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-26 15:30:07'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-26 15:30:07'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-26 16:05:39'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-26 16:05:39'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-26T12:29:28.626Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-26T12:29:28.683Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-27T05:29:25.758Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-27T05:29:25.787Z'
+}
+{
+  level: 'error',
+  message: 'ValidationError: "firstName" is not allowed to be empty. "lastName" is not allowed to be empty. "email" is not allowed to be empty. "phoneNumber" is not allowed to be empty. "password" is not allowed to be empty',
+  timestamp: '2022-08-27T05:33:16.727Z'
+}
+{
+  level: 'error',
+  message: 'ValidationError: "email" must be a valid email',
+  timestamp: '2022-08-27T05:34:55.066Z'
+}
+{
+  level: 'error',
+  message: 'ValidationError: "email" must be a valid email',
+  timestamp: '2022-08-27T05:35:19.201Z'
+}
+{
+  level: 'error',
+  message: 'ValidationError: "firstName" is not allowed to be empty. "phoneNumber" is not allowed to be empty',
+  timestamp: '2022-08-27T05:36:10.535Z'
+}
+{
+  level: 'error',
+  message: 'ValidationError: "email" must be a valid email',
+  timestamp: '2022-08-27T05:36:58.807Z'
+}
+{
+  _original: { email: '@yopmail.com', password: 'abc12' },
+  details: [
+    {
+      message: '"email" must be a valid email',
+      path: [ 'email' ],
+      type: 'string.email',
+      context: {
+        value: '@yopmail.com',
+        invalids: [ '@yopmail.com' ],
+        label: 'email',
+        key: 'email'
+      }
+    }
+  ],
+  level: 'error',
+  timestamp: '2022-08-27T05:37:43.821Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-08-27T05:37:43.822Z'
+}
+{
+  level: 'error',
+  message: 'Record Not Found',
+  timestamp: '2022-08-27T05:37:43.822Z'
+}
+{
+  message: 'Invalid Email or Code!!',
+  level: 'error',
+  timestamp: '2022-08-27T05:38:00.758Z'
+}
+{
+  level: 'error',
+  message: 'Invalid Email or Code!!',
+  timestamp: '2022-08-27T05:38:00.759Z'
+}
+{
+  message: 'Invalid Email or Code!!',
+  level: 'error',
+  timestamp: '2022-08-27T05:38:33.435Z'
+}
+{
+  level: 'error',
+  message: 'Invalid Email or Code!!',
+  timestamp: '2022-08-27T05:38:33.436Z'
+}
+{
+  message: 'Invalid Email or Code!!',
+  level: 'error',
+  timestamp: '2022-08-27T05:38:41.787Z'
+}
+{
+  level: 'error',
+  message: 'Invalid Email or Code!!',
+  timestamp: '2022-08-27T05:38:41.788Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-29T03:41:37.087Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-29T03:41:37.137Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-29T03:42:12.013Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-29T03:42:12.048Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-29T03:42:33.121Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-29T03:42:33.161Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-29T03:45:09.207Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-29T03:45:09.241Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-29T03:47:03.151Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-29T03:47:03.199Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-29T03:50:22.338Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-29T03:50:22.368Z'
+}
+{
+  level: 'error',
+  message: "Cannot read properties of undefined (reading 'Admin')",
+  timestamp: '2022-08-29T03:50:53.870Z'
+}
+{
+  level: 'error',
+  message: "Cannot read properties of undefined (reading 'Admin')",
+  timestamp: '2022-08-29T03:52:35.379Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-29T03:58:58.480Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-29T03:58:58.523Z'
+}
+{
+  level: 'error',
+  message: 'ValidationError: "role" is not allowed',
+  timestamp: '2022-08-29T03:59:00.029Z'
+}
+{
+  level: 'error',
+  message: 'ValidationError: "role" is not allowed',
+  timestamp: '2022-08-29T04:00:13.126Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-29T04:00:49.883Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-29T04:00:49.913Z'
+}
+{
+  level: 'error',
+  message: 'ValidationError: "role" is required',
+  timestamp: '2022-08-29T04:01:14.350Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-29T04:04:23.769Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-29T04:04:23.811Z'
+}
+{
+  level: 'error',
+  message: 'ValidationError: "role" is required',
+  timestamp: '2022-08-29T04:04:59.227Z'
+}
+{
+  level: 'error',
+  message: 'ValidationError: "role" is not allowed to be empty',
+  timestamp: '2022-08-29T04:05:49.996Z'
+}
+{
+  level: 'error',
+  message: 'ValidationError: "role" is required',
+  timestamp: '2022-08-29T04:06:16.201Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-29T04:06:28.414Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-29T04:06:28.444Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-29T04:12:47.911Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-29T04:12:47.943Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-29T04:15:40.803Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-29T04:15:40.853Z'
+}
+{
+  level: 'error',
+  message: 'ValidationError: "role" is not allowed',
+  timestamp: '2022-08-29T04:15:48.676Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-29T04:16:06.707Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-29T04:16:06.740Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-29T04:41:24.188Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-29T04:41:24.240Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-29T04:41:38.252Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-29T04:41:38.296Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-29T04:47:41.188Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-29T04:47:41.214Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-29T05:27:55.878Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-29T05:27:55.912Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-08-29T05:34:42.216Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-08-29T05:34:42.245Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-19T09:38:08.400Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-19T09:38:08.426Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-19T10:45:28.851Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-19T10:45:28.877Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-19T10:55:12.266Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-19T10:55:12.299Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-19T13:33:27.711Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-19T13:33:27.740Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-19T13:33:54.610Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-19T13:33:54.636Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-19T13:34:26.180Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-19T13:34:26.221Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T03:45:01.839Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T03:45:01.873Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T03:50:19.110Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T03:50:19.147Z'
+}
+{
+  level: 'error',
+  message: 'ValidationError: "firstName" is required. "lastName" is required. "phoneNumber" is required. "password" is required',
+  timestamp: '2022-09-20T03:55:03.961Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T04:09:27.857Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T04:09:27.902Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T04:10:42.116Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T04:10:42.149Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T04:13:17.557Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T04:13:17.582Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T04:21:37.090Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T04:21:37.121Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T04:26:52.267Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T04:26:52.290Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T04:29:32.481Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T04:29:32.526Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T04:30:20.558Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T04:30:20.601Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T04:45:02.370Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T04:45:02.404Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T04:48:29.619Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T04:48:29.650Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T04:54:11.133Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T04:54:11.161Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:05:49.872Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:05:49.897Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:06:26.700Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:06:26.728Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:07:56.085Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:07:56.118Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:08:31.096Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:08:31.125Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:09:54.814Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:09:54.842Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:10:39.929Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:10:39.962Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:17:16.843Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:17:16.866Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:24:33.053Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:24:33.085Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:26:53.871Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:26:53.898Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:28:30.684Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:28:30.708Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:35:18.585Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:35:18.626Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:37:33.964Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:37:34.000Z'
+}
+{
+  level: 'error',
+  message: "Cannot read properties of undefined (reading 'status')",
+  timestamp: '2022-09-20T05:38:39.496Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:40:24.560Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:40:24.588Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:41:24.262Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:41:24.301Z'
+}
+{
+  level: 'error',
+  message: "Cannot read properties of undefined (reading 'status')",
+  timestamp: '2022-09-20T05:41:34.289Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:41:49.317Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:41:49.339Z'
+}
+{
+  level: 'error',
+  message: "Cannot read properties of undefined (reading 'status')",
+  timestamp: '2022-09-20T05:42:41.939Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:43:27.962Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:43:27.988Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:46:50.201Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:46:50.231Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:48:05.521Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:48:05.547Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:49:35.861Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:49:35.893Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:49:55.157Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:49:55.191Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:51:22.881Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:51:22.913Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:51:55.571Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:51:55.607Z'
+}
+{
+  level: 'error',
+  message: "Cannot read properties of undefined (reading 'status')",
+  timestamp: '2022-09-20T05:52:13.814Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:52:34.024Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:52:34.052Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:52:59.998Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:53:00.041Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:53:53.143Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:53:53.178Z'
+}
+{
+  level: 'error',
+  message: "Cannot read properties of undefined (reading 'status')",
+  timestamp: '2022-09-20T05:54:06.690Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:54:58.949Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:54:58.989Z'
+}
+{
+  level: 'error',
+  message: "Cannot read properties of undefined (reading 'status')",
+  timestamp: '2022-09-20T05:55:00.885Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:55:35.985Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:55:36.014Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T05:56:15.131Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T05:56:15.152Z'
+}
+{
+  level: 'error',
+  message: "Cannot read properties of undefined (reading 'status')",
+  timestamp: '2022-09-20T05:56:45.411Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T06:05:19.770Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T06:05:19.815Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T06:05:50.175Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T06:05:50.215Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T06:46:48.343Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T06:46:48.377Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T06:53:25.517Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T06:53:25.558Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T06:53:37.720Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T06:53:37.766Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T06:56:47.935Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T06:56:47.968Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T07:11:52.996Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T07:11:53.041Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T07:15:50.755Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T07:15:50.798Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T07:16:37.797Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T07:16:37.841Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T07:50:45.049Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T07:50:45.104Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T07:51:50.006Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T07:51:50.039Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T09:39:24.626Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T09:39:24.659Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-09-20T10:32:11.710Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-09-20T10:32:11.732Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T04:32:27.340Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T04:32:27.370Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-11-29T04:37:42.188Z'
+}
+{
+  level: 'error',
+  message: 'Record Not Found',
+  timestamp: '2022-11-29T04:37:42.191Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-11-29T04:38:56.022Z'
+}
+{
+  level: 'error',
+  message: 'Record Not Found',
+  timestamp: '2022-11-29T04:39:00.468Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-11-29T04:42:14.907Z'
+}
+{
+  level: 'error',
+  message: 'Record Not Found',
+  timestamp: '2022-11-29T04:42:14.910Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T04:42:33.966Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T04:42:34.002Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-11-29T04:42:43.714Z'
+}
+{
+  level: 'error',
+  message: 'Record Not Found',
+  timestamp: '2022-11-29T04:42:43.723Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T04:44:32.435Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T04:44:32.478Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-11-29T04:47:01.899Z'
+}
+{
+  level: 'error',
+  message: 'Record Not Found',
+  timestamp: '2022-11-29T04:47:01.904Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T04:47:12.289Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T04:47:12.323Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T04:47:46.161Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T04:47:46.189Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T04:49:33.853Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T04:49:33.885Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-11-29T04:49:39.226Z'
+}
+{
+  level: 'error',
+  message: 'Record Not Found',
+  timestamp: '2022-11-29T04:49:39.228Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T04:49:52.796Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T04:49:52.832Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T04:50:06.235Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T04:50:06.266Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-11-29T04:50:17.571Z'
+}
+{
+  level: 'error',
+  message: 'Record Not Found',
+  timestamp: '2022-11-29T04:50:17.581Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-11-29T04:50:44.300Z'
+}
+{
+  level: 'error',
+  message: 'Record Not Found',
+  timestamp: '2022-11-29T04:50:44.310Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T04:56:05.503Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T04:56:05.540Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T04:56:41.680Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T04:56:41.721Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T04:57:42.493Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T04:57:42.537Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T04:58:01.583Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T04:58:01.619Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T05:07:38.608Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T05:07:38.641Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T06:01:45.306Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T06:01:45.341Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T06:08:35.307Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T06:08:35.342Z'
+}
+{
+  level: 'error',
+  message: 'An account with this email already exists.',
+  timestamp: '2022-11-29T06:08:41.338Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T06:09:08.663Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T06:09:08.693Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T06:09:32.264Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T06:09:32.304Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T06:11:43.161Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T06:11:43.192Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T06:47:40.426Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T06:47:40.458Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T06:48:26.208Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T06:48:26.239Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T06:48:43.248Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T06:48:43.289Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T06:52:34.901Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T06:52:34.931Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T06:53:11.367Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T06:53:11.398Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:01:22.555Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:01:22.585Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:09:52.420Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:09:52.472Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:10:02.463Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:10:02.497Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:10:24.621Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:10:24.660Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:11:51.960Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:11:51.990Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:12:07.378Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:12:07.414Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:16:45.864Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:16:45.903Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:18:57.450Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:18:57.477Z'
+}
+{
+  level: 'error',
+  message: 'ValidationError: "user" is not allowed',
+  timestamp: '2022-11-29T07:19:41.088Z'
+}
+{
+  level: 'error',
+  message: 'ValidationError: "user" is not allowed',
+  timestamp: '2022-11-29T07:20:06.606Z'
+}
+{
+  level: 'error',
+  message: 'ValidationError: "user" is not allowed',
+  timestamp: '2022-11-29T07:21:25.351Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:24:56.691Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:24:56.720Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:25:25.447Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:25:25.488Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:26:18.993Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:26:19.023Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:26:52.027Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:26:52.060Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:27:21.543Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:27:21.579Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:28:34.834Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:28:34.865Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:28:46.657Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:28:46.688Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-11-29T07:29:10.344Z'
+}
+{
+  level: 'error',
+  message: 'Record Not Found',
+  timestamp: '2022-11-29T07:29:10.347Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:29:50.317Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:29:50.365Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-11-29T07:30:00.417Z'
+}
+{
+  level: 'error',
+  message: 'Record Not Found',
+  timestamp: '2022-11-29T07:30:00.426Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:30:13.155Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:30:13.190Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-11-29T07:30:30.750Z'
+}
+{
+  level: 'error',
+  message: 'Record Not Found',
+  timestamp: '2022-11-29T07:30:30.755Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:30:48.346Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:30:48.379Z'
+}
+{
+  level: 'error',
+  message: 'ValidationError: "_id" is not allowed',
+  timestamp: '2022-11-29T07:31:33.386Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:32:12.219Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:32:12.257Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:34:05.801Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:34:05.827Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:41:04.899Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:41:04.936Z'
+}
+{
+  level: 'error',
+  message: 'Email already exists',
+  timestamp: '2022-11-29T07:41:53.262Z'
+}
+{
+  level: 'error',
+  message: 'Email already exists',
+  timestamp: '2022-11-29T07:42:13.711Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:43:02.444Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:43:02.478Z'
+}
+{
+  level: 'error',
+  message: 'Email already exists',
+  timestamp: '2022-11-29T07:43:47.191Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:44:26.911Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:44:26.943Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:45:13.069Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:45:13.104Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:52:39.841Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:52:39.871Z'
+}
+{ level: 'error', timestamp: '2022-11-29T07:52:54.536Z' }
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:53:18.299Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:53:18.332Z'
+}
+{
+  level: 'error',
+  message: 'Email already exists',
+  timestamp: '2022-11-29T07:53:43.139Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:54:01.684Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:54:01.721Z'
+}
+{
+  level: 'error',
+  message: 'Email already exists',
+  timestamp: '2022-11-29T07:54:30.079Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:54:47.012Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:54:47.053Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:55:07.863Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:55:07.898Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:55:34.415Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:55:34.461Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:55:42.560Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:55:42.604Z'
+}
+{
+  level: 'error',
+  message: 'Email already exists',
+  timestamp: '2022-11-29T07:56:08.751Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:56:55.885Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:56:55.916Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:58:22.071Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:58:22.113Z'
+}
+{
+  level: 'error',
+  message: 'Email already exists',
+  timestamp: '2022-11-29T07:58:51.167Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T07:59:19.572Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T07:59:19.607Z'
+}
+{
+  level: 'error',
+  message: 'Email already exists',
+  timestamp: '2022-11-29T07:59:29.077Z'
+}
+{
+  level: 'error',
+  message: 'Email already exists',
+  timestamp: '2022-11-29T07:59:46.149Z'
+}
+{
+  level: 'error',
+  message: 'Email already exists',
+  timestamp: '2022-11-29T08:00:05.515Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T08:00:55.884Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T08:00:55.915Z'
+}
+{
+  level: 'error',
+  message: 'Email already exists',
+  timestamp: '2022-11-29T08:02:10.594Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T08:02:18.846Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T08:02:18.880Z'
+}
+{
+  level: 'error',
+  message: 'Email already exists',
+  timestamp: '2022-11-29T08:02:28.992Z'
+}
+{
+  level: 'error',
+  message: "Cannot read property 'email' of null",
+  timestamp: '2022-11-29T08:02:49.329Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T08:03:19.990Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T08:03:20.025Z'
+}
+{
+  level: 'error',
+  message: 'Email already exists',
+  timestamp: '2022-11-29T08:07:22.561Z'
+}
+{
+  level: 'error',
+  message: 'Email already exists',
+  timestamp: '2022-11-29T08:07:38.067Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T08:07:58.731Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T08:07:58.761Z'
+}
+{
+  level: 'error',
+  message: 'Email already exists',
+  timestamp: '2022-11-29T08:08:01.984Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T08:08:59.371Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T08:08:59.404Z'
+}
+{
+  level: 'error',
+  message: 'Email already exists',
+  timestamp: '2022-11-29T08:10:05.190Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T08:10:21.956Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T08:10:21.985Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T08:11:35.644Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T08:11:35.685Z'
+}
+{
+  level: 'error',
+  message: 'Email already exists',
+  timestamp: '2022-11-29T09:08:03.743Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T09:27:40.924Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T09:27:40.961Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T09:35:54.898Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T09:35:54.932Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-29T09:36:03.426Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-29T09:36:03.462Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T04:06:20.850Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T04:06:20.886Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T04:15:32.826Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T04:15:32.860Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T04:18:08.588Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T04:18:08.613Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T04:18:45.570Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T04:18:45.601Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-11-30T04:26:34.125Z'
+}
+{
+  level: 'error',
+  message: 'Record Not Found',
+  timestamp: '2022-11-30T04:26:34.129Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T05:27:11.240Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T05:27:11.278Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-11-30T05:27:59.631Z'
+}
+{
+  level: 'error',
+  message: 'Record Not Found',
+  timestamp: '2022-11-30T05:27:59.635Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T05:28:32.169Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T05:28:32.203Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-11-30T05:28:43.732Z'
+}
+{
+  level: 'error',
+  message: 'Record Not Found',
+  timestamp: '2022-11-30T05:28:43.736Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T05:29:01.216Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T05:29:01.247Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T05:30:15.348Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T05:30:15.384Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T05:30:56.463Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T05:30:56.501Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T05:31:38.704Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T05:31:38.729Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T05:31:46.635Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T05:31:46.667Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T05:31:54.014Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T05:31:54.047Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T05:32:07.782Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T05:32:07.823Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-11-30T05:32:44.463Z'
+}
+{
+  level: 'error',
+  message: 'Record Not Found',
+  timestamp: '2022-11-30T05:32:44.469Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T05:33:42.884Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T05:33:42.918Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T05:36:35.617Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T05:36:35.649Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T05:37:49.128Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T05:37:49.160Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T05:38:16.862Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T05:38:16.892Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T05:39:24.069Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T05:39:24.100Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T05:40:28.501Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T05:40:28.535Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T05:42:16.103Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T05:42:16.136Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T05:42:28.881Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T05:42:28.913Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T05:50:16.888Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T05:50:16.909Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T05:54:39.375Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T05:54:39.402Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T05:58:58.938Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T05:58:58.970Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:03:23.374Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:03:23.407Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:04:54.456Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:04:54.490Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:11:42.092Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:11:42.124Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: 'error',
+  timestamp: '2022-11-30T06:12:15.269Z'
+}
+{
+  level: 'error',
+  message: "Cannot set property 'status' of undefined",
+  timestamp: '2022-11-30T06:12:15.272Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: 'error',
+  timestamp: '2022-11-30T06:13:32.970Z'
+}
+{
+  level: 'error',
+  message: "Cannot set property 'status' of undefined",
+  timestamp: '2022-11-30T06:13:46.271Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:14:12.729Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:14:12.765Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:14:28.099Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:14:28.132Z'
+}
+{
+  message: 'Invalid Email or Code!!',
+  level: 'error',
+  timestamp: '2022-11-30T06:14:48.950Z'
+}
+{
+  level: 'error',
+  message: "Cannot set property 'status' of undefined",
+  timestamp: '2022-11-30T06:14:50.612Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:16:55.600Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:16:55.635Z'
+}
+{
+  message: 'Invalid Email or Code!!',
+  level: 'error',
+  timestamp: '2022-11-30T06:17:10.852Z'
+}
+{
+  level: 'error',
+  message: "Cannot set property 'status' of undefined",
+  timestamp: '2022-11-30T06:17:12.423Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:17:28.369Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:17:28.405Z'
+}
+{
+  message: 'Invalid Email or Code!!',
+  level: 'error',
+  timestamp: '2022-11-30T06:17:35.074Z'
+}
+{
+  level: 'error',
+  message: "Cannot set property 'status' of undefined",
+  timestamp: '2022-11-30T06:17:48.605Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:18:34.183Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:18:34.227Z'
+}
+{
+  message: 'Invalid Email or Code!!',
+  level: 'error',
+  timestamp: '2022-11-30T06:18:40.053Z'
+}
+{ level: 'error', message: '', timestamp: '2022-11-30T06:18:42.492Z' }
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:25:53.701Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:25:53.737Z'
+}
+{
+  message: 'Invalid Email or Code!!',
+  level: 'error',
+  timestamp: '2022-11-30T06:26:07.513Z'
+}
+{
+  level: 'error',
+  message: "Cannot set property 'status' of undefined",
+  timestamp: '2022-11-30T06:26:09.285Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:27:04.534Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:27:04.567Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:29:40.942Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:29:40.978Z'
+}
+{
+  message: 'Invalid Email or Code!!',
+  level: 'error',
+  timestamp: '2022-11-30T06:29:57.186Z'
+}
+{
+  level: 'error',
+  message: "Cannot set property 'message' of undefined",
+  timestamp: '2022-11-30T06:29:59.533Z'
+}
+{
+  message: 'Invalid Email or Code!!',
+  level: 'error',
+  timestamp: '2022-11-30T06:30:23.042Z'
+}
+{
+  level: 'error',
+  message: "Cannot set property 'message' of undefined",
+  timestamp: '2022-11-30T06:30:53.743Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:40:34.000Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:40:34.037Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: 'error',
+  timestamp: '2022-11-30T06:40:42.359Z'
+}
+{
+  level: 'error',
+  message: "Cannot set property 'status' of undefined",
+  timestamp: '2022-11-30T06:40:43.705Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:41:27.763Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:41:27.797Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: 'error',
+  timestamp: '2022-11-30T06:41:35.926Z'
+}
+{
+  level: 'error',
+  message: 'Invalid Request Created',
+  timestamp: '2022-11-30T06:41:38.100Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:41:58.831Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:41:58.868Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: 'error',
+  timestamp: '2022-11-30T06:42:01.844Z'
+}
+{
+  level: 'error',
+  message: 'Invalid Email or Code!!',
+  timestamp: '2022-11-30T06:42:01.848Z'
+}
+{
+  message: 'Invalid Email or Code!!',
+  level: 'error',
+  timestamp: '2022-11-30T06:42:32.841Z'
+}
+{
+  level: 'error',
+  message: "Cannot set property 'status' of undefined",
+  timestamp: '2022-11-30T06:42:33.992Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:42:57.461Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:42:57.507Z'
+}
+{
+  message: 'Invalid Email or Code!!',
+  level: 'error',
+  timestamp: '2022-11-30T06:43:00.661Z'
+}
+{
+  level: 'error',
+  message: 'Invalid Email or Code!!',
+  timestamp: '2022-11-30T06:43:00.665Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:44:24.822Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:44:24.858Z'
+}
+{
+  message: 'Invalid Password',
+  level: 'error',
+  timestamp: '2022-11-30T06:44:34.223Z'
+}
+{
+  level: 'error',
+  message: 'Invalid Password',
+  timestamp: '2022-11-30T06:44:34.226Z'
+}
+{
+  message: 'Invalid Email',
+  level: 'error',
+  timestamp: '2022-11-30T06:44:47.380Z'
+}
+{
+  level: 'error',
+  message: 'Invalid Email',
+  timestamp: '2022-11-30T06:44:47.382Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:47:15.280Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:47:15.317Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:47:48.845Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:47:48.885Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:48:23.611Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:48:23.646Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-11-30T06:48:24.847Z'
+}
+{
+  level: 'error',
+  message: 'Record Not Found',
+  timestamp: '2022-11-30T06:48:24.849Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-11-30T06:48:30.372Z'
+}
+{
+  level: 'error',
+  message: 'Record Not Found',
+  timestamp: '2022-11-30T06:48:30.373Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:52:28.582Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:52:28.614Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:53:33.033Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:53:33.065Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:54:02.951Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:54:02.979Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-11-30T06:54:06.873Z'
+}
+{
+  level: 'error',
+  message: 'Record Not Found',
+  timestamp: '2022-11-30T06:54:06.875Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-11-30T06:54:18.729Z'
+}
+{
+  level: 'error',
+  message: 'Record Not Found',
+  timestamp: '2022-11-30T06:54:18.731Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-11-30T06:54:20.609Z'
+}
+{
+  level: 'error',
+  message: 'Record Not Found',
+  timestamp: '2022-11-30T06:54:20.612Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:55:50.704Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:55:50.740Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:56:05.730Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:56:05.761Z'
+}
+{
+  level: 'error',
+  message: 'ValidationError: "password" length must be 10 characters long',
+  timestamp: '2022-11-30T06:56:10.251Z'
+}
+{
+  level: 'error',
+  message: 'ValidationError: "password" length must be 10 characters long',
+  timestamp: '2022-11-30T06:56:21.218Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T06:56:41.893Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T06:56:41.926Z'
+}
+{
+  level: 'error',
+  message: 'ValidationError: "phoneNumber" length must be 10 characters long',
+  timestamp: '2022-11-30T06:56:45.475Z'
+}
+{
+  message: 'Record Not Found',
+  level: 'error',
+  timestamp: '2022-11-30T06:56:54.347Z'
+}
+{
+  level: 'error',
+  message: 'Email already exists',
+  timestamp: '2022-11-30T06:56:54.350Z'
+}
+{
+  level: 'info',
+  message: 'App listening on the port 3000',
+  timestamp: '2022-11-30T07:03:03.104Z'
+}
+{
+  level: 'info',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-30T07:03:03.144Z'
+}
