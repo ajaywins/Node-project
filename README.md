@@ -23,7 +23,7 @@ Clone down this repository. You will need `node` and `npm` installed globally on
 - NodeJs
 - ExpressJs
 - MongoDB
-- graphql
+- GraphQl
 
 ### Installation and Setup Instructions (backend)
 
