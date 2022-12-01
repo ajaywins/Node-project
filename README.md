@@ -1,14 +1,14 @@
 # CRUD
 First:-
+- Clone down this repository first.
 - To install everything in every package run the command `npm install` from your terminal in the root directory.
--
+
 
 
 # CRUD Node Project
 
-
-Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
- Then, you can run the platform for development purposes by running `npm run start` in the same directory.
+- You will need `node` and `npm` installed globally on your machine.  
+- Then, you can run the platform for development purposes by running `npm run start` in the same directory.
 - For everything to work correctly you will need to set the keys in '.env' file.
 
 ## CRUD Backend (backend)
