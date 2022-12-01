@@ -37,3 +37,4 @@ To Start Server:
 `npm run start`
 
 ## Postman Refrence link - https://api.postman.com/collections/20940831-733f48d2-1646-4f56-90df-dd894eb6e3b0?access_key=PMAT-01GK0QH5J1ASK1TYGRZQGP8SV4
+   - Copy this link and import on your postman collection.
