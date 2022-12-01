@@ -9,14 +9,14 @@ First:-
 
 - You will need `node` and `npm` installed globally on your machine.  
 - Then, you can run the platform for development purposes by running `npm run start` in the same directory.
-- For everything to work correctly you will need to set the keys in '.env' file.
+- For everything to work correctly you will need to set the keys in '.env' environmet file.
 
 ## CRUD Backend (backend)
 
 - In the backend i created backend api in clean architecture.
 - It will capture name, email,phoneNumber, password,role and  will create an record and return the record.
-- in case data missing or duplicate email, it will return json response to api
-- CURD Opertation also present on the user
+- In case data missing or duplicate email, it will return json response to api.
+- CURD Opertation also present on the user.
 
 ### Technologies Used
 - TypeScript
