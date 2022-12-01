@@ -8,27 +8,32 @@ export default {
     },
     firstName: {
         type: String,
-        required: true,
+        required:false
     },
     lastName: {
         type: String,
-        required: true,
+        required:false
     },
     email: {
         type: String,
-        required: true,
+        required:false
     },
     phoneNumber: {
         type: String,
-        required: true,
+        required:false
     },
     password:{
         type:String,
-        required:true
+        required:false
     },
     role:{
         type:String,
-        required:true
+        required:false
+    },
+    delete:{
+        type:Boolean,
+        required:false,
+        default:false
     }
 
 }

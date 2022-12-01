@@ -5,8 +5,8 @@ export interface IUserServiceAPI {
   register(request: IRegisterUserRequest): Promise<IRegisterUserResponse>;
   login(request: ILoginUserRequest): Promise<ILoginUserResponse>;
   get(request: IGetUserRequest): Promise<IGetUserResponse>;
-  update(request:IUpdateUserRequest): Promise<IUpdateUserResponse>;
-  delete(request:IDeleteUserRequest): Promise<IDeleteUserResponse>;
+  update(request: IUpdateUserRequest): Promise<IUpdateUserResponse>;
+  delete(request: IDeleteUserRequest): Promise<IDeleteUserResponse>;
 }
 
 /********************************************************************************
@@ -78,7 +78,7 @@ export interface IGetUserResponse extends IResponse {
  *  Update User
  ********************************************************************************/
 
- export interface IUpdateUserRequest extends IRequest {
+export interface IUpdateUserRequest extends IRequest {
   _id?: string;
   firstName: string;
   lastName: string;
@@ -95,7 +95,7 @@ export interface IUpdateUserResponse extends IResponse {
  *  Delete User
  ********************************************************************************/
 
- export interface IDeleteUserRequest extends IRequest {
+export interface IDeleteUserRequest extends IRequest {
   _id?: string;
 }
 

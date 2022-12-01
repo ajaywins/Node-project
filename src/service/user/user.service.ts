@@ -69,42 +69,40 @@ export default class UserService implements IUserService.IUserServiceAPI {
       role: Role.Admin,
     };
 
-     //check existing user...
+    //check existing user...
 
-     let existingUser: IUser;
-     try {
-       existingUser = await this.storage.findByEmail(email);
-     } catch (e) {
-      logger.error(e),
-      response.status = StatusCodeEnum.INTERNAL_SERVER_ERROR;
-      response.error = e
+    let existingUser: IUser;
+    try {
+      existingUser = await this.storage.get({ email });
+    } catch (e) {
+      logger.error(e), (response.status = StatusCodeEnum.INTERNAL_SERVER_ERROR);
+      response.error = e;
       return response;
-     }
- 
-     if (existingUser && existingUser.email) {
+    }
+
+    if (existingUser && existingUser.email) {
       logger.error(ErrorMessageEnum.RECORD_NOT_FOUND);
-      response={
-        status : StatusCodeEnum.INTERNAL_SERVER_ERROR,
-        error : ErrorMessageEnum.EMAIL_EXIST
-      }
-       return response;
-     }
+      response = {
+        status: StatusCodeEnum.INTERNAL_SERVER_ERROR,
+        error: ErrorMessageEnum.EMAIL_EXIST,
+      };
+      return response;
+    }
     let user: IUser;
-//create user...
+    //create user...
     try {
       user = await this.storage.register(userAttributes);
       if (!user) {
         logger.error(ErrorMessageEnum.RECORD_NOT_FOUND);
-         response={
-        status : StatusCodeEnum.INTERNAL_SERVER_ERROR,
-        error : ErrorMessageEnum.RECORD_NOT_FOUND
-      }
+        response = {
+          status: StatusCodeEnum.INTERNAL_SERVER_ERROR,
+          error: ErrorMessageEnum.RECORD_NOT_FOUND,
+        };
         return response;
-        }
+      }
     } catch (e) {
-      logger.error(e),
-      response.status = StatusCodeEnum.INTERNAL_SERVER_ERROR;
-      response.error = e
+      logger.error(e), (response.status = StatusCodeEnum.INTERNAL_SERVER_ERROR);
+      response.error = e;
       return response;
     }
     response.status = StatusCodeEnum.OK;
@@ -134,38 +132,45 @@ export default class UserService implements IUserService.IUserServiceAPI {
     if (params.error) {
       logger.error(params.error);
       response.status = StatusCodeEnum.UNPROCESSABLE_ENTITY;
-      response.error = params.error
-       return response;
+      response.error = params.error;
+      return response;
     }
 
     let user: IUser;
     // check if email exist or not...
+
     try {
-      user = await this.storage.findByEmail(email);
+      user = await this.storage.get({ email });
     } catch (e) {
-      logger.error(e),
-      response.status = StatusCodeEnum.INTERNAL_SERVER_ERROR;
-      response.error = e
+      logger.error(e), (response.status = StatusCodeEnum.INTERNAL_SERVER_ERROR);
+      response.error = e;
       return response;
     }
     if (!user || !user.email) {
       logger.error(ErrorMessageEnum.INVALID_EMAIL),
-      response={
-        status : StatusCodeEnum.INTERNAL_SERVER_ERROR,
-        error : ErrorMessageEnum.INVALID_EMAIL
-      }
+        (response = {
+          status: StatusCodeEnum.INTERNAL_SERVER_ERROR,
+          error: ErrorMessageEnum.INVALID_EMAIL,
+        });
       return response;
     }
-//check password...
+    if (user.delete == true) {
+      response = {
+        status: StatusCodeEnum.INTERNAL_SERVER_ERROR,
+        error: ErrorMessageEnum.RECORD_NOT_FOUND,
+      };
+      return response;
+    }
+    //check password...
     let isValid: boolean;
     let hashPassword = user.password;
     isValid = await bcrypt.compare(password, hashPassword);
     if (!isValid || !user.password) {
       logger.error(ErrorMessageEnum.INVALID_PASSWORD),
-      response={
-        status : StatusCodeEnum.INTERNAL_SERVER_ERROR,
-        error : ErrorMessageEnum.INVALID_PASSWORD
-      }
+        (response = {
+          status: StatusCodeEnum.INTERNAL_SERVER_ERROR,
+          error: ErrorMessageEnum.INVALID_PASSWORD,
+        });
       return response;
     }
     response = {
@@ -192,17 +197,17 @@ export default class UserService implements IUserService.IUserServiceAPI {
 
     try {
       user = await this.storage.get(request);
-      if (!user) {
-      logger.error(ErrorMessageEnum.RECORD_NOT_FOUND),
-      response={
-        status : StatusCodeEnum.NOT_FOUND,
-        error : ErrorMessageEnum.RECORD_NOT_FOUND
-      }
+      if (user.delete !== false) {
+        logger.error(ErrorMessageEnum.RECORD_NOT_FOUND),
+          (response = {
+            status: StatusCodeEnum.NOT_FOUND,
+            error: ErrorMessageEnum.RECORD_NOT_FOUND,
+          });
+        return response;
       }
     } catch (e) {
-      logger.error(e),
-      response.status = StatusCodeEnum.INTERNAL_SERVER_ERROR;
-      response.error = e
+      logger.error(e), (response.status = StatusCodeEnum.INTERNAL_SERVER_ERROR);
+      response.error = e;
       return response;
     }
     response.status = StatusCodeEnum.OK;
@@ -210,85 +215,91 @@ export default class UserService implements IUserService.IUserServiceAPI {
     return response;
   };
 
-   /**
+  /**
    * @param  {IUserService.IGetUserRequest} request
    * Desc: update user
    * @returns Promise
    */
-    public update = async (
-      request: IUserService.IUpdateUserRequest
-    ): Promise<IUserService.IUpdateUserResponse> => {
-      let response: IUserService.IUpdateUserResponse = {
-        status: StatusCodeEnum.UNKNOWN_CODE,
-      };
-      const schema = Joi.object().keys({
-        _id:Joi.string().optional(),
-        firstName: Joi.string().optional(),
-        lastName: Joi.string().optional(),
-        email: Joi.string().email().optional(),
-        phoneNumber: Joi.string().optional().length(10),
-        password: Joi.string().optional(),
-      });
-      const params = schema.validate(request, { abortEarly: false });
-      if (params.error) {
-        logger.error(params.error);
-        response.status = StatusCodeEnum.UNPROCESSABLE_ENTITY;
-        response.error = params.error;
-        return response;
-      }
-  
-      const Id = request._id
-      const { firstName, lastName, email, phoneNumber, password } = params.value;
-      const userAttributes = {
-        firstName,
-        lastName,
-        email,
-        phoneNumber,
-        password,
-      };
-       //check existing email...
+  public update = async (
+    request: IUserService.IUpdateUserRequest
+  ): Promise<IUserService.IUpdateUserResponse> => {
+    let response: IUserService.IUpdateUserResponse = {
+      status: StatusCodeEnum.UNKNOWN_CODE,
+    };
+    const schema = Joi.object().keys({
+      _id: Joi.string().optional(),
+      firstName: Joi.string().optional(),
+      lastName: Joi.string().optional(),
+      email: Joi.string().email().optional(),
+      phoneNumber: Joi.string().optional().length(10),
+      password: Joi.string().optional(),
+    });
+    const params = schema.validate(request, { abortEarly: false });
+    if (params.error) {
+      logger.error(params.error);
+      response.status = StatusCodeEnum.UNPROCESSABLE_ENTITY;
+      response.error = params.error;
+      return response;
+    }
 
-     let existingUser: IUser;
-     try {
-       existingUser = await this.storage.findByEmail(email);
-     } catch (e) {
-       logger.error(e);
-       response.status = StatusCodeEnum.INTERNAL_SERVER_ERROR;
-       response.error = e
-       return response;
-     }
- 
-     if (existingUser && existingUser.email) {
-      logger.error(ErrorMessageEnum.EMAIL_EXIST),
-      response={
-        status : StatusCodeEnum.INTERNAL_SERVER_ERROR,
-        error : ErrorMessageEnum.EMAIL_EXIST
-      }
-       return response;
-     }
-      let user: IUser;
-      try {
-        user = await this.storage.update(Id,userAttributes);
-        if (!user) {
-        logger.error(ErrorMessageEnum.RECORD_NOT_FOUND),
-        response={
-          status : StatusCodeEnum.NOT_FOUND,
-          error : ErrorMessageEnum.RECORD_NOT_FOUND
-        }
+    const Id = request._id;
+    const { firstName, lastName, email, phoneNumber, password } = params.value;
+    const userAttributes = {
+      firstName,
+      lastName,
+      email,
+      phoneNumber,
+      password,
+    };
+    //check existing email...
+
+    let existingUser: IUser;
+    try {
+      existingUser = await this.storage.get({ email });
+      if (existingUser.delete === true) {
+        response = {
+          status: StatusCodeEnum.INTERNAL_SERVER_ERROR,
+          error: ErrorMessageEnum.RECORD_NOT_FOUND,
+        };
         return response;
       }
     } catch (e) {
-    logger.error(e),
-    response.status = StatusCodeEnum.NOT_FOUND;
-    response.error = e;
-    return response;
-  }
+      logger.error(e);
+      response.status = StatusCodeEnum.INTERNAL_SERVER_ERROR;
+      response.error = e;
+      return response;
+    }
+
+    if (existingUser && existingUser.email) {
+      logger.error(ErrorMessageEnum.EMAIL_EXIST),
+        (response = {
+          status: StatusCodeEnum.INTERNAL_SERVER_ERROR,
+          error: ErrorMessageEnum.EMAIL_EXIST,
+        });
+      return response;
+    }
+    let user: IUser;
+    try {
+      user = await this.storage.update(Id, userAttributes);
+      if (!user) {
+        logger.error(ErrorMessageEnum.RECORD_NOT_FOUND),
+          (response = {
+            status: StatusCodeEnum.NOT_FOUND,
+            error: ErrorMessageEnum.RECORD_NOT_FOUND,
+          });
+        return response;
+      }
+    } catch (e) {
+      logger.error(e), (response.status = StatusCodeEnum.NOT_FOUND);
+      response.error = e;
+      return response;
+    }
     response.status = StatusCodeEnum.OK;
     response.user = user;
     return response;
-};
-  
-     /**
+  };
+
+  /**
    * @param  {IUserService.IGetUserRequest} request
    * Desc: delete user by id
    * @returns Promise
@@ -299,27 +310,26 @@ export default class UserService implements IUserService.IUserServiceAPI {
     let response: IUserService.IDeleteUserResponse = {
       status: StatusCodeEnum.UNKNOWN_CODE,
     };
-    let Id = request._id
+    let Id = request._id;
     let user: IUser;
 
     try {
       user = await this.storage.delete(Id);
       if (!user) {
         logger.error(ErrorMessageEnum.RECORD_NOT_FOUND),
-        response={
-          status : StatusCodeEnum.NOT_FOUND,
-          error : ErrorMessageEnum.RECORD_NOT_FOUND
-        }
+          (response = {
+            status: StatusCodeEnum.NOT_FOUND,
+            error: ErrorMessageEnum.RECORD_NOT_FOUND,
+          });
         return response;
       }
     } catch (e) {
-      logger.error(e),
-      response.status = StatusCodeEnum.NOT_FOUND;
+      logger.error(e), (response.status = StatusCodeEnum.NOT_FOUND);
       response.error = e;
       return response;
     }
     response.status = StatusCodeEnum.OK;
-    response.message = SuccessMsgEnum.USER_DELETE;
+    response.message = SuccessMsgEnum.DELETE;
     return response;
   };
 }

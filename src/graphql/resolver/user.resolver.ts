@@ -8,12 +8,10 @@ export const resolver = {
   Query: {
     async login(parent: any, args: any, context: any) {
       const { email, password } = args;
-
       const request: IUserService.ILoginUserRequest = {
         email,
         password,
       };
-
       let response: IUserService.ILoginUserResponse = {
         status: StatusCodeEnum.UNKNOWN_CODE,
       };
@@ -28,7 +26,7 @@ export const resolver = {
       return response;
     },
     async getUser(parent: any, args: any, context: any) {
-      useAuthValidator(context);
+      // useAuthValidator(context);
       let returnUser = context.req.currentUser;
 
       const request: IUserService.IGetUserRequest = returnUser;
@@ -44,9 +42,7 @@ export const resolver = {
   },
   Mutation: {
     async register(parent: any, args: any, context: any) {
-      const { firstName, lastName, email, phoneNumber, password, role } =
-        args.params;
-
+      const { firstName, lastName, email, phoneNumber, password, role } =args.params;
       const request: IUserService.IRegisterUserRequest = {
         firstName,
         lastName,
@@ -69,13 +65,13 @@ export const resolver = {
     },
     async update(parent: any, args: any, context: any) {
       // useAuthValidator(context);
-      const {_id,firstName,lastName,phoneNumber,email} = args.params;
+      const { _id, firstName, lastName, phoneNumber, email } = args.params;
       const request: IUserService.IUpdateUserRequest = {
         _id,
         firstName,
         lastName,
         phoneNumber,
-        email
+        email,
       };
       let response: IUserService.IUpdateUserResponse = {
         status: StatusCodeEnum.UNKNOWN_CODE,
@@ -88,24 +84,22 @@ export const resolver = {
       }
       return response?.user;
     },
-  async delete(parent: any, args: any, context: any) {
-    // useAuthValidator(context);
-    const {_id} = args;
-    const request: IUserService.IDeleteUserRequest = {
-      _id,
-    };
-    let response: IUserService.IDeleteUserResponse = 
-    {
-      status: StatusCodeEnum.UNKNOWN_CODE,
-    };
-    try {
-      response = await proxy.user.delete(request);
-      Response.checkStatus(response);
-    } catch (e) {
-      Response.catchThrow(e);
-    }
-    return response;
+    async delete(parent: any, args: any, context: any) {
+      // useAuthValidator(context);
+      const { _id } = args;
+      const request: IUserService.IDeleteUserRequest = {
+        _id,
+      };
+      let response: IUserService.IDeleteUserResponse = {
+        status: StatusCodeEnum.UNKNOWN_CODE,
+      };
+      try {
+        response = await proxy.user.delete(request);
+        Response.checkStatus(response);
+      } catch (e) {
+        Response.catchThrow(e);
+      }
+      return response;
+    },
   },
- },
-}
-
+};

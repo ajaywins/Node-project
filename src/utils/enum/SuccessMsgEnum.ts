@@ -1,6 +1,6 @@
 enum SuccessMsgEnum {
-    LOGIN_SUCCESSFUL = "Login Successful",
-    USER_DELETE = "user deleted",
+    LOGIN_SUCCESSFUL = "login successful",
+    DELETE = "deleted",
 }
 
 export default SuccessMsgEnum;

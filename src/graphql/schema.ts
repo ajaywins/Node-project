@@ -17,6 +17,7 @@ const typeDefs = gql`
     phoneNumber: String
     password: String
     role: String
+    delete:Boolean
   }
   input UserInput {
     _id: String
@@ -52,8 +53,8 @@ const typeDefs = gql`
     # User
     ################################################################
     register(params: UserInput!): User
-    update(params: UserInput): User
-    delete(_id: String): Authentication
+    update(params: UserInput!): User
+    delete(_id: String!): Authentication
 
   }
 `;

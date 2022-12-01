@@ -6,4 +6,5 @@ export default interface IUser {
   phoneNumber?: string;
   password?: string;
   role?: string;
+  delete?:boolean
 }
